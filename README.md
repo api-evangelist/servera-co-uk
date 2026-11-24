@@ -1,4 +1,4 @@
-# servera-co-uk
+# Servera
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,142 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-servera-co-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://servera.co.uk/
+Servera is a UK‑based infrastructure partner offering dedicated servers, VPS, VDS, web hosting, VPN services and domain registration. With over 11 years of experience, thousands of active services and its own data centre, Servera provides high‑performance NVMe SSD storage, DDoS protection, BGP network management and a modern client area. The company emphasizes reliable connectivity, 24/7 support and AI‑driven management via Servera AI, positioning itself as a comprehensive solution for businesses and developers needing robust hosting and networking infrastructure.
+
+**Areas:** Hosting · Cloud · Infrastructure · VPS · Dedicated Servers
+
+## Servera on APIs.io
+
+Everything profiled for Servera is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/servera-co-uk/](https://apis.io/providers/servera-co-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (23)
+
+- [Servera Billing API](https://apis.io/apis/servera-co-uk/servera-co-uk-billing-api/) — Invoices, invoice PDFs and your account balance.
+- [Servera Catalog API](https://apis.io/apis/servera-co-uk/servera-co-uk-catalog-api/) — The Catalog API from Servera — 2 operation(s) for catalog.
+- [Servera Contacts API](https://apis.io/apis/servera-co-uk/servera-co-uk-contacts-api/) — Account contacts.
+- [Servera Domains API](https://apis.io/apis/servera-co-uk/servera-co-uk-domains-api/) — Your domains and their DNS records (read and edit).
+- [Servera Emails API](https://apis.io/apis/servera-co-uk/servera-co-uk-emails-api/) — History of system emails sent to your account.
+- [Servera Hosting API](https://apis.io/apis/servera-co-uk/servera-co-uk-hosting-api/) — cPanel hosting add-ons - dedicated mail IPv4 (your account's email sent from its own IP with its own PTR/HELO; the website is not moved): status, DNS…
+- [Servera Logs API](https://apis.io/apis/servera-co-uk/servera-co-uk-logs-api/) — Your account activity log.
+- [Servera Mail API](https://apis.io/apis/servera-co-uk/servera-co-uk-mail-api/) — Email delivery & protection - delivery trace, RBL checks, whitelists, trusted senders, autoresponders.
+- [Servera Malware API](https://apis.io/apis/servera-co-uk/servera-co-uk-malware-api/) — Malicious-code scanning for your cPanel hosting - start scans, read results, and schedule periodic scans with email notifications to you and extra contacts.
+- [Servera Meta API](https://apis.io/apis/servera-co-uk/servera-co-uk-meta-api/) — API status and the account your key belongs to.
+- [Servera Networks API](https://apis.io/apis/servera-co-uk/servera-co-uk-networks-api/) — VPC networks and their firewall.
+- [Servera Orders API](https://apis.io/apis/servera-co-uk/servera-co-uk-orders-api/) — List and inspect your orders.
+- [Servera Partner Provisioning API](https://apis.io/apis/servera-co-uk/servera-co-uk-partner-provisioning-api/) — Partner integration: create an end customer and place an order for partner-allowed products in one call. Requires the partner:provision scope.
+- [Servera Security API](https://apis.io/apis/servera-co-uk/servera-co-uk-security-api/) — Shared-hosting IP blocks - check and self-unblock.
+- [Servera SSL API](https://apis.io/apis/servera-co-uk/servera-co-uk-ssl-api/) — Issue and manage Let's Encrypt certificates for your domains. We auto-detect the best validation method (hosting AutoSSL, DNS-01, or edge) and can install,…
+- [Servera Tags API](https://apis.io/apis/servera-co-uk/servera-co-uk-tags-api/) — Organise your services and domains: assign tags (labels) from a predefined grouped catalog or your own custom text, and keep a free-text comment on each.…
+- [Servera Tickets API](https://apis.io/apis/servera-co-uk/servera-co-uk-tickets-api/) — Read, open and reply to support tickets.
+- [Servera Users API](https://apis.io/apis/servera-co-uk/servera-co-uk-users-api/) — Account users - list, invite, resend invitations.
+- [Servera Violations API](https://apis.io/apis/servera-co-uk/servera-co-uk-violations-api/) — Security violations on your services (malware, mail abuse, abuse) - view the lifecycle and evidence, and reply while a case is active.
+- [Servera Virtual Router API](https://apis.io/apis/servera-co-uk/servera-co-uk-virtual-router-api/) — Virtual Routers - WireGuard, public IPs, attached VMs.
+- [Servera VPS API](https://apis.io/apis/servera-co-uk/servera-co-uk-vps-api/) — Control your virtual servers - status, metrics, power, snapshots, backups, firewall, OS reinstall.
+- [Servera WAF API](https://apis.io/apis/servera-co-uk/servera-co-uk-waf-api/) — Web Application Firewall - domains, presets, rules, lists, bot policy.
+- [Servera Webmail GEO API](https://apis.io/apis/servera-co-uk/servera-co-uk-webmail-geo-api/) — The Webmail GEO API from Servera — 6 operation(s) for webmail geo.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Servera Agentic Access](https://apis.io/agentic-access/servera-co-uk/servera-co-uk-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ContactData](https://apis.io/schemas/servera-co-uk/servera-co-uk-contact-data/)
+- [MalwareNotifyBody](https://apis.io/schemas/servera-co-uk/servera-co-uk-malware-notify-body/)
+- [PartnerCustomerPatch](https://apis.io/schemas/servera-co-uk/servera-co-uk-partner-customer-patch/)
+- [PartnerPayResult](https://apis.io/schemas/servera-co-uk/servera-co-uk-partner-pay-result/)
+- [PartnerProvisionBody](https://apis.io/schemas/servera-co-uk/servera-co-uk-partner-provision-body/)
+- [PartnerServiceInfo](https://apis.io/schemas/servera-co-uk/servera-co-uk-partner-service-info/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Servera Co Uk Context](https://apis.io/jsonld/servera-co-uk/servera-co-uk-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Servera API Rules](https://apis.io/rules/servera-co-uk/servera-co-uk-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Servera Authentication](https://apis.io/security/servera-co-uk/servera-co-uk-authentication/)
+- [Servera Domain Security](https://apis.io/security/servera-co-uk/servera-co-uk-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://servera.co.uk/)
+- [Documentation](https://developers.servera.co.uk/)
+- [API reference](https://developers.servera.co.uk/openapi.json)
+- [Support](https://servera.co.uk/client/login)
+- [Privacy policy](https://servera.co.uk/legal?doc=privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 44.3** — developing · rubric 0.27.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 61.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 10.5 |
+
+**Agent readiness 50.6** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/servera-co-uk/](https://apis.io/providers/servera-co-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Servera: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/servera-co-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
